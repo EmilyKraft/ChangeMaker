@@ -1,0 +1,51 @@
+1.	Introduction
+1.1.	Purpose of the system
+The purpose of the Change Maker system is to provide the cashier with the correct number of each coin to provide to the customer. 
+
+1.2.	Scope of the system
+The system will address the cash checkout process, specifically the coin change. 
+
+1.3.	Objectives and success criteria of the project
+The system must provide the correct number of each type of coin.
+
+1.4.	Definitions, acronyms, and abbreviations
+N/A
+
+1.5.	References
+N/A
+
+1.6.	Overview
+
+2.	Current System
+Currently, cashiers must mentally calculate the correct number of each coin when assisting customers with payment. This often takes several seconds, or result in the cashier providing the incorrect number of coins, which results in slower customer service, reduced customer satisfaction, and loss of profit. 
+
+3.	Proposed System
+3.1.	Overview
+The new system will provide the cashier with the correct number of each coin to provide the customer. This will eliminate errors due to incorrect math, and provide a more efficient checkout process for both the cashier and the customer. 
+
+3.2.	Functional requirements
+The system will prevent the cashier user from entering more than 99 cents.
+The system will list the correct number of each type of coin for the cashier to see. 
+
+3.3.	Nonfunctional requirements
+3.3.1.	Usability
+3.3.2.	Reliability
+The system will ensure that the cashier enters a valid input within the specified range.
+3.3.3.	Performance
+3.3.4.	Supportability
+The system must be maintainable by our in-house Java programming team. 
+3.3.5.	Implementation
+3.3.6.	Interface
+The system will interface with our current POS machines. 
+3.3.7.	Packaging
+3.3.8.	Legal
+
+3.4.	System models
+3.4.1.	Scenario
+3.4.2.	Use case model
+3.4.3.	Analysis object model
+3.4.4.	Dynamic model
+3.4.5.	User interface/navigational paths, and screen mockups
+
+4.	Glossary
+N/A
